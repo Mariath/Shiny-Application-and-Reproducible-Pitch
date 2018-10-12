@@ -1,0 +1,24 @@
+---
+title: "Shiny App Presentation"
+author: "Mariath"
+date: "October 12, 2018"
+output: slidy_presentation
+---
+
+# Course Project: Shiny Application and Reproducible Pitch
+Maria T
+12 October 2018
+
+
+
+#Overview
+This was built as part of a deliverable for the course Developing Data Products as part of the Coursera Data Science Specialization.
+
+The app developed for the first part of the assignment demo is avialable at: http://127.0.0.1:5521/
+
+Source code for ui.R and server.R files are available on the GitHub repo: https://github.com/Mariath/Shiny-Application-and-Reproducible-Pitch
+
+
+#Web Application Functionality
+
+The file provides a tool to predict the cost of the diamonds depending on the carats, cut, color, clarity.
